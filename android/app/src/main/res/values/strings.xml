@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pro Playbook</string>
+    <string name="title_activity_main">Pro Playbook</string>
+    <string name="package_name">com.proplaybook.app</string>
+    <string name="custom_url_scheme">com.proplaybook.app</string>
+</resources>

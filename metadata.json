@@ -1,0 +1,6 @@
+{
+  "name": "Pro Playbook",
+  "description": "バスケットボールの戦術ボード・アニメーション作成・PDF/MP4エクスポート対応のプレイブックアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
